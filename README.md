@@ -1,6 +1,6 @@
-# Hi, I'm Francis Dey 👋
+# I'm Francis Dey 
 
-### Software Engineer | Cybersecurity | Application Security
+### Software Engineer | Cybersecurity | DevSecOps
 
 I'm a Ghana-based aspiring software engineer interested in building reliable software, designing meaningful digital experiences, and understanding how to secure the systems we create.
 
@@ -10,7 +10,7 @@ I'm continuously developing my skills through university studies, practical proj
 
 ---
 
-## 🎓 Education
+##  Education
 
 **Brigham Young University–Idaho (BYU-Idaho)**  
 Bachelor's pathway in Software Development
@@ -20,7 +20,7 @@ PathwayConnect and progression toward degree-level studies.
 
 ---
 
-## 💻 Software Engineering
+##  Software Engineering
 
 My primary software engineering interest is backend development, particularly building application logic, designing APIs, managing databases, and structuring maintainable applications.
 
@@ -37,7 +37,7 @@ I'm also exploring how AI can support software development and practical automat
 
 ---
 
-## 🎨 UI/UX and Frontend Development
+##  UI/UX and Frontend Development
 
 I have an interest in creating interfaces that are functional, accessible, responsive, and easy to use.
 
@@ -55,7 +55,7 @@ I believe good software should not only work correctly but should also provide a
 
 ---
 
-## 🔐 Cybersecurity and Information Security
+##  Cybersecurity and Information Security
 
 My cybersecurity journey focuses on understanding how systems, networks, and applications can be protected against security threats.
 
@@ -124,7 +124,7 @@ Topics include:
 
 ---
 
-## ⚙️ DevSecOps
+##  DevSecOps
 
 I'm learning how to integrate security into the Continuous Integration and Continuous Delivery (CI/CD) process.
 
@@ -144,7 +144,7 @@ Areas of practice and exploration:
 
 ---
 
-## 🚀 Projects and Practical Work
+##  Projects and Practical Work
 
 ### 1. School Fees Management System
 
@@ -177,7 +177,7 @@ Activities include:
 
 ---
 
-## 🏅 Training and Professional Development
+##  Training and Professional Development
 
 - **Maxim Nyansa Foundation — Cybersecurity Bootcamp:** Practical exposure to information security, application security, network security, risk assessment, and DevSecOps concepts.
 - **LinkedIn Learning — Application Security in DevSecOps:** Completed a course by Tim Chase.
@@ -188,7 +188,7 @@ I value practical learning, mentorship, collaboration, and continuous improvemen
 
 ---
 
-## 🎯 What I'm Working Towards
+##  What I'm Working Towards
 
 My long-term goal is to become a strong software engineer with the ability to build, understand, test, and secure modern applications.
 
@@ -206,7 +206,7 @@ I want to become an engineer who understands both **how to build systems and how
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 I'm open to learning opportunities, mentorship, technical collaboration, internships, and conversations around software engineering and cybersecurity.
 
